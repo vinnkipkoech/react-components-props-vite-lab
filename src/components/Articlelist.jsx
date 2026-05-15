@@ -1,4 +1,4 @@
-import Article from "./Article.jsx";
+import Article from "./Article.jsx"
 
 function ArticleList({ posts }) {
   return (
@@ -12,7 +12,7 @@ function ArticleList({ posts }) {
         />
       ))}
     </main>
-  );
+  )
 }
 
-export default ArticleList;
+export default ArticleList
